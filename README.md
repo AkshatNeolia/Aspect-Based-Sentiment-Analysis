@@ -11,17 +11,13 @@ Built as a final year B.Tech major project at **SRM Institute of Science and Tec
 
 ## 🖥️ Main Dashboard
 
-![Dashboard](<img width="894" height="480" alt="image" src="https://github.com/user-attachments/assets/f94b9109-12a6-46d8-85ca-442eecdd3f3e" />
-
-*Fig 4.6 Dashboard*
+<img width="894" height="480" alt="image" src="https://github.com/user-attachments/assets/f94b9109-12a6-46d8-85ca-442eecdd3f3e" />
 
 ---
 
 ## 🔍 Single Feedback Analysis
 
-![Single Feedback Analysis](sandbox:/mnt/data/d8cf929e-938a-464c-940b-5070c6a59b85.png)
-
-*Fig 4.7 Single Feedback Analysis*
+<img width="896" height="551" alt="image" src="https://github.com/user-attachments/assets/a9ef9aba-ca17-4f1b-8625-892eeb1a0bd9" />
 
 ---
 
